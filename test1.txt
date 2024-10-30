@@ -1,1 +1,1 @@
-go all blacks
+go all blackscmdlet
